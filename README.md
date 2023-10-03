@@ -21,7 +21,7 @@ To get started with the code and examples in this repository, you'll need to ins
    git clone https://github.com/AhmadHassan71/statistical-modeling-using-pymc3.git
 
 2. Install the requirements
-  -  Install latest version of [Pyton](https://www.python.org/downloads/)
+  -  Install latest version of [Python](https://www.python.org/downloads/)
   -  Install [Anaconda](https://www.anaconda.com) for the current user (not for all users) if not already installed
   -  Install [MSYS2](https://www.msys2.org/) strictly as instructed in the link
   -   In Environment Variables for the user, add the following to the path
@@ -38,4 +38,4 @@ conda install -c conda-forge notebook
 conda activate pm3bap
 jupyter lab
 ```
-
+3. You are ready to play with the workshops!! Have Fun

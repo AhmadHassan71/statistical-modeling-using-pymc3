@@ -30,12 +30,12 @@ To get started with the code and examples in this repository, you'll need to ins
   -  Open Anaconda Powershell Prompt (anaconda3) as administrator and run the following in sequence. 
 
 
-```
-conda update --all
-conda create -n pm3bap -c conda-forge pymc3 seaborn libpython mkl-service numba
-conda activate pm3bap
-conda install -c conda-forge notebook
-conda activate pm3bap
-jupyter lab
-```
+      ```
+      conda update --all
+      conda create -n pm3bap -c conda-forge pymc3 seaborn libpython mkl-service numba
+      conda activate pm3bap
+      conda install -c conda-forge notebook
+      conda activate pm3bap
+      jupyter lab
+      ```
 3. You are ready to play with the workshops!! Have Fun

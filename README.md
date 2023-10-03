@@ -7,6 +7,10 @@ This repository contains code and resources for performing statistical modeling 
 
 Bayesian statistics is a powerful approach to modeling and inference that allows us to quantify uncertainty and make data-driven decisions. PyMC3 is a popular library that simplifies the process of building and estimating Bayesian models. In this repository, we provide resources, tutorials, and examples to help you get started with Bayesian modeling using PyMC3.
 
+This repository has a bunch of workshops that we did in class to play with. Their topics start from the basics of distribution and extend to the basics of deep learning.
+
+## A special thanks to my partner [Faraz Rashid](https://github.com/FarazRashid) who was my partner in this class.
+
 ## Installation
 
 To get started with the code and examples in this repository, you'll need to install PyMC3 and other required dependencies. Here are the steps to set up your environment:

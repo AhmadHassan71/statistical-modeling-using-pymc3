@@ -2,14 +2,6 @@
 
 This repository contains code and resources for performing statistical modeling using PyMC3, a powerful Python library for Bayesian modeling and probabilistic programming. Whether you're new to Bayesian statistics or an experienced practitioner, this repository aims to provide you with a foundation for conducting Bayesian data analysis using PyMC3.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

@@ -29,10 +29,13 @@ To get started with the code and examples in this repository, you'll need to ins
       C:\msys64\usr\bin
   -  Open Anaconda Powershell Prompt (anaconda3) as administrator and run the following in sequence. 
 
-  ``` bash
+
+```
 conda update --all
 conda create -n pm3bap -c conda-forge pymc3 seaborn libpython mkl-service numba
 conda activate pm3bap
 conda install -c conda-forge notebook
-conda activate pm3bap (not needed if already in pm3bap)
+conda activate pm3bap
 jupyter lab
+```
+

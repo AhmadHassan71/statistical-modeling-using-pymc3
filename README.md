@@ -19,3 +19,20 @@ To get started with the code and examples in this repository, you'll need to ins
 
    ```bash
    git clone https://github.com/AhmadHassan71/statistical-modeling-using-pymc3.git
+
+2. Install the requirements
+  -  Install latest version of [Pyton](https://www.python.org/downloads/)
+  -  Install [Anaconda](https://www.anaconda.com) for the current user (not for all users) if not already installed
+  -  Install [MSYS2](https://www.msys2.org/) strictly as instructed in the link
+  -   In Environment Variables for the user, add the following to the path
+      C:\msys64\ucrt64\bin
+      C:\msys64\usr\bin
+  -  Open Anaconda Powershell Prompt (anaconda3) as administrator and run the following in sequence. 
+
+  ``` bash
+conda update --all
+conda create -n pm3bap -c conda-forge pymc3 seaborn libpython mkl-service numba
+conda activate pm3bap
+conda install -c conda-forge notebook
+conda activate pm3bap (not needed if already in pm3bap)
+jupyter lab

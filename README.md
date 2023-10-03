@@ -9,7 +9,7 @@ Bayesian statistics is a powerful approach to modeling and inference that allows
 
 This repository has a bunch of workshops that we did in class to play with. Their topics start from the basics of distribution and extend to the basics of deep learning.
 
-## A special thanks to [Faraz Rashid](https://github.com/FarazRashid) who was my partner in this class.
+## A special thanks to [Faraz Rashid](https://github.com/FarazRashid) who was my duo in this class.
 
 ## Installation
 
